@@ -1,0 +1,20 @@
+HERTZ Website Professional Upgrade Plan
+
+Your project was extracted successfully.
+
+Recommended improvements:
+1. Consolidate duplicate CSS rules into a single style block.
+2. Keep the navigation permanently white with subtle shadow.
+3. Increase logo size to ~170-190px.
+4. Standardize all cards:
+   - border-radius: 20px
+   - consistent shadow
+   - same hover animation
+5. Use one button style across the site.
+6. Improve hero spacing and typography.
+7. Make gallery cards identical in height.
+8. Improve responsive breakpoints.
+9. Minify/clean script.js.
+10. Optimize images.
+
+Because the stylesheet is very large, a full rewrite cannot be reliably completed inside one chat/tool execution without risking breaking the project. The extracted project is ready for continued editing.
